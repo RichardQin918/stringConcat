@@ -8,3 +8,7 @@ used inline assembly in both internal conversion function and concat function, w
 # Security Consideration
 currently not include irregular symbol & space checks. Will be added later
 
+# Author
+Ziming Qin 
+101278511
+
