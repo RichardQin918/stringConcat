@@ -1,5 +1,5 @@
-const BitWise = artifacts.require('BitWise');
+const StringConcat = artifacts.require('StringConcat');
 
 module.exports = function(deployer) {
-    deployer.deploy(BitWise);
+    deployer.deploy(StringConcat);
 }
